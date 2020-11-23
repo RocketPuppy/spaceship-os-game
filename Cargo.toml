@@ -3,6 +3,7 @@ name = "spaceship-os-game-rust"
 version = "0.1.0"
 authors = ["Daniel Wilson-Thomas <danielwilsonthomas@gmail.com>"]
 edition = "2018"
+links = "BearLibTerminal"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
